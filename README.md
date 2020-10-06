@@ -1,8 +1,8 @@
 ![alt_text](https://github.com/gianIucca/clone_netflix/blob/main/public/Screenshot_3.png)
 
-![alt_text](https://github.com/gianIucca/clone_netflix/blob/main/public/Screenshot_1.png)
+![Tela inicial](https://github.com/gianIucca/clone_netflix/blob/main/public/Screenshot_1.jpg)
 
-![alt_text](https://github.com/gianIucca/clone_netflix/blob/main/public/Screenshot_2.png)
+![Lista de filmes](https://github.com/gianIucca/clone_netflix/blob/main/public/Screenshot_2.jpg)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
