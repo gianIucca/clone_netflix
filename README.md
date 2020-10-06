@@ -1,6 +1,3 @@
-# Info 
-
-Projeto feito acompanhando a aula https://www.youtube.com/watch?v=tBweoUiMsDg. 
 
 ![alt_text](https://github.com/gianIucca/clone_netflix/blob/main/public/Screenshot_3.png)
 
